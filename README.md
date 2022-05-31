@@ -11,5 +11,5 @@ git clone https://github.com/AryaanSheth/greyscale-to-binary
 
 
 # Example 
-[before](https://media.discordapp.net/attachments/971092570312675389/981232048205344838/cat-face-profile-black-background-wallpaper-preview.jpg)
-[after](https://media.discordapp.net/attachments/971092570312675389/981232048503160892/image.jpg)
+![before](https://media.discordapp.net/attachments/971092570312675389/981232048205344838/cat-face-profile-black-background-wallpaper-preview.jpg)
+![after](https://media.discordapp.net/attachments/971092570312675389/981232048503160892/image.jpg)
